@@ -29,7 +29,7 @@ namespace RecordLocalLogin
 
         static void funcPrintParameterSyntax()
         {
-            Console.WriteLine("RecordLocalLogin v1.0 (c) 2011 SystemsAdminPro.com");
+            Console.WriteLine("RecordLocalLogin v1.0");
             Console.WriteLine();
             Console.WriteLine("Parameter syntax:");
             Console.WriteLine();
