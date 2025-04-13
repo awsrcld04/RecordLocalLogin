@@ -42,7 +42,7 @@ namespace RecordLocalLogin
             Console.WriteLine("-[PathToRecordLocalLogin]         directory path where RecordLocalLogin is located");
             Console.WriteLine();
             Console.WriteLine("Example:");
-            Console.WriteLine("RecordLocalLogin -run -\"C:\\Program Files\\SystemsAdminPro\"");
+            Console.WriteLine("RecordLocalLogin -run -\"C:\\Program Files\\RecordLocalLogin\"");
         }
 
         static CMDArguments funcParseCmdArguments(string[] cmdargs)
