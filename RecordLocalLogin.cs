@@ -79,8 +79,6 @@ namespace RecordLocalLogin
             {
                 funcToEventLog("RecordLocalLogin", "RecordLocalLogin started.", 1001);
 
-                funcProgramRegistryTag("RecordLocalLogin");
-
                 Environment.CurrentDirectory = objCMDArguments2.strWorkingDirectory;
 
                 funcRecordLoginInfo();
